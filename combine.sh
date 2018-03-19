@@ -2,7 +2,7 @@
 
 source beasts
 
-TARGET="$APP_COMBINED"
+TARGET="$APP_COMBINED_MULTI"
 
 while [ $# -gt 0 ]
 do
